@@ -8,7 +8,7 @@ export function Header() {
     <header className="fixed w-full bg-white/90 backdrop-blur-sm z-50 shadow-sm">
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          <h1 className="text-2xl font-bold text-gray-800">John Doe</h1>
+          <h1 className="text-2xl font-bold text-gray-800">Raju Bandam</h1>
           
           {/* Mobile menu button */}
           <button 

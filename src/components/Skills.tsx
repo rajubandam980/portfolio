@@ -6,12 +6,12 @@ export function Skills() {
     {
       icon: <Code2 size={40} />,
       title: "Frontend Development",
-      description: "React, TypeScript, Tailwind CSS",
+      description: "React, TypeScript, Angular",
     },
     {
       icon: <Database size={40} />,
       title: "Backend Development",
-      description: "Node.js, Express, PostgreSQL",
+      description: "Node.js, Java, MySQL",
     },
     {
       icon: <Globe size={40} />,
