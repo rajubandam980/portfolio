@@ -7,7 +7,7 @@ export function Footer() {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center justify-between">
           <p className="text-gray-400 mb-4 md:mb-0">
-            © {new Date().getFullYear()} John Doe. All rights reserved.
+            © {new Date().getFullYear()} Raju Bandam. Built with React & TypeScript.
           </p>
           <div className="flex items-center gap-6">
             <a href="https://github.com" className="text-gray-400 hover:text-white">
@@ -16,7 +16,7 @@ export function Footer() {
             <a href="https://linkedin.com" className="text-gray-400 hover:text-white">
               <Linkedin size={20} />
             </a>
-            <a href="mailto:your.email@example.com" className="text-gray-400 hover:text-white">
+            <a href="mailto:rajubandam387@gmail.com" className="text-gray-400 hover:text-white">
               <Mail size={20} />
             </a>
           </div>

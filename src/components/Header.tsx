@@ -25,13 +25,13 @@ export function Header() {
             <a href="#projects" className="text-gray-600 hover:text-gray-900">Projects</a>
             <a href="#contact" className="text-gray-600 hover:text-gray-900">Contact</a>
             <div className="flex items-center gap-4">
-              <a href="https://github.com" className="text-gray-600 hover:text-gray-900">
+              <a href="https://github.com/rajubandam980" className="text-gray-600 hover:text-gray-900">
                 <Github size={20} />
               </a>
-              <a href="https://linkedin.com" className="text-gray-600 hover:text-gray-900">
+              <a href="https://www.linkedin.com/in/bandam-raju-ab357b194/" className="text-gray-600 hover:text-gray-900">
                 <Linkedin size={20} />
               </a>
-              <a href="mailto:your.email@example.com" className="text-gray-600 hover:text-gray-900">
+              <a href="mailto:rajubandam387@gmail.com" className="text-gray-600 hover:text-gray-900">
                 <Mail size={20} />
               </a>
             </div>
